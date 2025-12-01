@@ -22,7 +22,7 @@ This is a simple "Pop Culture Trivia Game" that allows the user to select an ans
 
 ## Author
 
-* **Cristina Defoe** - (https://github.com/cristinadefoe)
+* **Cristina Defoe** 
 
 ## Acknowledgments
 
